@@ -12,7 +12,6 @@ How to get the data using wget?
 !wget ...
 ```
 #### Local
-If you want to get started with 
 This is not a huge repository therefore can easily be downloaded.
 ```bash
 # Clone the repository
@@ -23,5 +22,4 @@ $ cd challenge-week-2
 
 # Open up the jupyter notebook if installed
 $ jupyter notebook
-# Happy coding
 ```
